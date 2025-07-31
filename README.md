@@ -2,6 +2,21 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.15.
 
+## Tech Stack
+Frontend Framework: Angular
+Style System: Tailwind/shadcn
+State Manager: NgRxSignal Store w/resource
+API System/library: Gin?
+Backend Framework: Gin?
+Backend Language: Go
+Database Dialect: Libsql
+Database Provider: Turso
+Router: 
+Auth: openauth?
+Package Manager: npm
+
+
+
 ## Development server
 
 To start a local development server, run:
